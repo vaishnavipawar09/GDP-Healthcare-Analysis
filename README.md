@@ -23,8 +23,8 @@ This project analyzes the relationship between GDP growth and healthcare spendin
 - Moderate Negative Correlation: A correlation of -0.43 between GDP and healthcare spending, meaning higher GDP does not always lead to increased healthcare investment.
 - Yearly Variability: Significant deviations observed in 2008 (financial crisis) and 2020 (COVID-19 pandemic).
 - Regional Trends:
-      --North America: Highest GDP & healthcare spending.
-      --Asia: Lower healthcare investment relative to economic capacity.
+      -North America: Highest GDP & healthcare spending.
+      -Asia: Lower healthcare investment relative to economic capacity.
 - Global Patterns: Economic downturns influence healthcare budgets.
 
 # ⚠️ Disclaimer
